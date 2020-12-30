@@ -2,7 +2,7 @@
     "name": "Gitea",
     "description": "Gitea 是一个极易安装，运行非常快速，安装和使用体验良好的自建 Git 服务。",
     "keywords": ["Gitea"],
-    "website": "https://github.com/go-gitea/gitea",
-    "repository": "https://github.com/go-gitea/gitea",
+    "website": "https://github.com/Dark-Matter7232/gitea",
+    "repository": "https://github.com/Dark-Matter7232/gitea",
     "stack": "container"
 }
